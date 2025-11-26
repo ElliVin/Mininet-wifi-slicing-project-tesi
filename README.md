@@ -42,6 +42,7 @@ sono generati automaticamante all'avvio della simulazione e si trovano nella car
 
 ---
 ## installazione ed esecuzione
+###### _NB: per fare andare il progetto é necessario aver installato sumo_
 ### 1. Clonare la repository 
 `git clone https://github.com/ElliVin/Mininet-wifi-slicing-project-tesi.git`
 ### 2. entrare nella cartella 
