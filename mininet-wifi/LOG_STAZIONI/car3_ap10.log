@@ -1,0 +1,28 @@
+ORARIO DI INIZIO: 13:57:43
+
+--- LOG IPERF CHIUSO (car3) ---
+------------------------------------------------------------
+Client connecting to 10.0.0.210, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.3 port 50506 connected with 10.0.0.210 port 5001 (icwnd/mss/irtt=14/1448/1663)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-2.0000 sec   369 KBytes  1.51 Mbits/sec
+[  1] 2.0000-4.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 4.0000-6.0000 sec   127 KBytes   521 Kbits/sec
+[  1] 6.0000-8.0000 sec   128 KBytes   524 Kbits/sec
+[  1] 8.0000-10.0000 sec   127 KBytes   518 Kbits/sec
+[  1] 10.0000-12.0000 sec   191 KBytes   782 Kbits/sec
+[  1] 12.0000-14.0000 sec   127 KBytes   521 Kbits/sec
+[  1] 14.0000-16.0000 sec   127 KBytes   521 Kbits/sec
+[  1] 16.0000-18.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 18.0000-20.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 20.0000-22.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 22.0000-24.0000 sec  0.000 Bytes  0.000 bits/sec
+[  1] 24.0000-26.0000 sec   127 KBytes   521 Kbits/sec
+[  1] 26.0000-28.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 28.0000-30.0000 sec  0.000 Bytes  0.000 bits/sec
+[  1] 30.0000-32.0000 sec  63.6 KBytes   261 Kbits/sec
+[  1] 32.0000-34.0000 sec  63.6 KBytes   261 Kbits/sec
+
+ORARIO DI FINE: 13:58:18

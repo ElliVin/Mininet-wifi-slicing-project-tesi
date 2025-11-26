@@ -1,0 +1,16 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="mappa.net.xml"/>
+        <route-files value="mappa_emergency.rou.xml"/>
+        <additional-files value="ap_copertura.poly.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+        <step-length value="0.25"/>
+    </time>
+
+</configuration>

@@ -1,0 +1,12 @@
+ORARIO DI INIZIO: 13:51:59
+------------------------------------------------------------
+Client connecting to 10.0.0.202, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.8 port 33782 connected with 10.0.0.202 port 5001 (icwnd/mss/irtt=14/1448/4266000)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-2.0000 sec  1.50 MBytes  6.29 Mbits/sec
+[  1] 2.0000-4.0000 sec  1.25 MBytes  5.24 Mbits/sec
+[  1] 4.0000-6.0000 sec  1.25 MBytes  5.24 Mbits/sec
+ORARIO DI FINE: 13:52:10
+

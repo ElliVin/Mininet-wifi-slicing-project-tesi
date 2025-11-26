@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <polygon id="ap_copertura" type="ap"
+             color="0,255,0,80"
+             fill="1"
+             layer="10"
+             shape="1542.44,939.51  1542.44,439.51  1042.44,439.51  1042.44,939.51"/>
+</additional>
