@@ -6,13 +6,8 @@ Questa repository contiene una versione modificata di Mininet-WiFi, utilizzata p
 Il codice originale è rilasciato sotto la licenza Mininet-WiFi 2.7, che consente l’uso, la modifica e la ridistribuzione del software.
 In conformità alla licenza, questa repository include il notice originale ed evita l’uso di nomi o marchi degli autori per fini pubblicitari.
 
-
-## File aggiunti e modificati
-
+# Nuovi file e cartelle 
 Rispetto alla versione originale, questo progetto include:
-
-
-### Nuovi file e cartelle 
 ## file di creazione della rete stradale SUMO
 
 <img src="immagine1.png" width="270">
@@ -43,5 +38,19 @@ cartella `LOG_STAZIONI` contiene tutti i log con i risultati di tutte le comunic
 
 #### file di salvataggio delle posizioni
 sono generati automaticamante all'avvio della simulazione e si trovano nella cartella `examples/SUMODIR/MAPPA/`
-
 <img src="immagine2.png" width="320">
+
+---
+## installazione ed esecuzione
+### 1. Clonare la repository 
+`git clone https://github.com/ElliVin/Mininet-wifi-slicing-project-tesi.git`
+### 2. entrare nella cartella 
+`cd Mininet-wifi-slicing-project-tesi/mininet-wifi`
+### 3. installazione: 
+`sudo util/install.sh -Wlnfv`
+### 4. esecuzione della simulazione 
+`cd examples/SUMODIR/MAPPA/full_topology.py`
+`sudo python3 full_topology.py`
+
+
+
