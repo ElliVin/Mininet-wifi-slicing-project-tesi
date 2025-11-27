@@ -3,7 +3,7 @@
 ## Crediti e Licenza
 
 Questa repository contiene una versione modificata di Mininet-WiFi, utilizzata per simulazioni urbane con **SUMO** e per l’implementazione di **Wi-Fi slicing dinamico**.
-Il codice originale è rilasciato sotto la licenza Mininet-WiFi 2.7, che consente l’uso, la modifica e la ridistribuzione del software.
+Il codice originale è rilasciato sotto la licenza Mininet-WiFi 2.6, che consente l’uso, la modifica e la ridistribuzione del software.
 In conformità alla licenza, questa repository include il notice originale ed evita l’uso di nomi o marchi degli autori per fini pubblicitari.
 
 # Nuovi file e cartelle 
